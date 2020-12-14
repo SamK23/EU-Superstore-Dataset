@@ -1,0 +1,47 @@
+Create a word document that contains Question wise answer and chart for your findings.
+
+1. CREATE A BAR CHART 
+- Which Region has the highest Revenue?
+- What is the lowest Revenue generating Sub-Category in above Region? – (Filter Down)
+- Which Manufacturer has the highest share of Revenue in the above Sub-Category? – (Filter Down)
+
+2. CREATE A DRILL DOWN TEXT TABLE 
+- Which Category in the West Region generates the lowest Profit?
+- Which Sub-Category in Technology Produces the highest Profit?
+
+3. CREATE A SCATTER PLOT 
+- Reveal the order with the highest Profit and Revenue combination?
+- Is there a correlation between profit and discount?
+
+4. CREATE A DONUT CHART 
+- Now create a group from Sub-Category called “Category Custom”
+- Furniture --> Bookcases,Chairs,Furnishings
+- Office Supplies --> Appliances,Art,Binders,Envelopes,Fasteners,Labels,Paper
+- Technology --> Accessories,Copiers,Machines
+- Remaining classified as Others Automatically.
+- Which “Category Custom” has the contributes the most to revenue?
+- Can you show the total revenue in the center of donut?
+
+5. CREATE A HIGHLIGHT TABLE 
+- Visually highlight with colors the most loss making manufacturer in the Central Region’s Office Supplies Segment in Technology Category in 2018?
+- Answer the above question for South Region via showing filters (drop down style)
+
+6. CREATE A HISTOGRAM 
+- Visualize order quantity histogram for each Category Remember to keep bin size “1”
+- In above chart can you tell what order quantity size is the highest and belongs to which category?
+
+7. CREATE A LINE CHART 
+- Show the profitability over the period. Which year was the highest profit making?
+- Can you tell by category which Sub-Category has seen the declining Profitability trend over the years?
+
+8. CREATE A GEOGRAPHICAL MAP 
+- Can you show up the top 3 most profitable country on the map? And name the 1 of the most lost making country.
+- Drill down to state level and provide the name of most lost making state from the above lost making country.
+
+9. CREATE A TREEMAP 
+- In a heatmap, uncover the highest profit making category over the years.
+- Explore the highest contribution maker product from above category.
+
+10. Presentation and Formatting Document 
+
+Use the attached dataset only.
